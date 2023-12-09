@@ -12,4 +12,4 @@ Personal yap:
 * 21
 * Junior at Rutgers NB (I did not get held back I just missed the cutoff okay) 
 * I like brawlhalla (kaya and jaeyun main)
-* 
+  
