@@ -4,7 +4,7 @@ Tech yap:
 
 * Backend Developer
 * Incoming SWE intern @ Okta!
-* 126 Leetcodes solved (Ik I'm ass)
+* 126 Leetcodes solved (Ik I suck)
 
 Personal yap:
 
