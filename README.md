@@ -1,4 +1,4 @@
-Hey, I'm Toye
+Hey, I'm Toye, I don't use this too much except when I'm collaborating with other people (check out pipelines.lol)
 
 Tech yap:
 
