@@ -7,7 +7,5 @@ Tech yap:
 
 Personal yap:
 
-* 22
-* Senior at Rutgers NB (I did not get held back I just missed the cutoff okay) 
 * I like brawlhalla (bow, spear, low plat)
   
