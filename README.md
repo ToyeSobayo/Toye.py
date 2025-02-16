@@ -1,11 +1,5 @@
 Hey, I'm Toye, I don't use this too much except when I'm collaborating with other people (check out pipelines.lol)
 
-Tech yap:
-
 * Backend/Fullstack Developer
-* Incoming SWE intern @ Litify (Winter 2025), Summer TBD
-
-Personal yap:
-
+* SWE intern @ Litify on the Core Product Team (Winter + Spring 2025)
 * I like brawlhalla (bow, spear, low plat)
-  
